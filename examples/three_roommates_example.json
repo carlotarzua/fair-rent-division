@@ -1,0 +1,44 @@
+{
+  "total_rent": 1000,
+  "people": [
+    "Alice",
+    "Bob",
+    "Claire"
+  ],
+  "rooms": [
+    "Master Bedroom",
+    "Basement",
+    "2nd Floor"
+  ],
+  "values": [
+    [
+      690,
+      95,
+      215
+    ],
+    [
+      520,
+      333,
+      147
+    ],
+    [
+      297,
+      633,
+      70
+    ]
+  ],
+  "expected_example_result": {
+    "Alice": {
+      "room": "Master Bedroom",
+      "price": 488
+    },
+    "Bob": {
+      "room": "2nd Floor",
+      "price": 13
+    },
+    "Claire": {
+      "room": "Basement",
+      "price": 499
+    }
+  }
+}
