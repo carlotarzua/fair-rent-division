@@ -144,8 +144,7 @@ envy-free-rent-division/
 ├── algorithm.py                         # Core fair rent division algorithm
 ├── requirements.txt                     # Deployment dependencies
 ├── README.md                            # Project documentation
-├── DEPLOYMENT.md                        # Deployment instructions
-├── PORTFOLIO.md                         # Resume and portfolio wording
+├── deployment.md                        # Deployment instructions
 ├── examples/
 │   └── three_roommates_example.json     # Example valuation matrix
 ├── report/
