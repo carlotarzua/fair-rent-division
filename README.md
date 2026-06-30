@@ -12,6 +12,10 @@ This project combines mathematical modeling, linear programming, and an interact
 
 ---
 
+📄 [Download the technical report](report/fair_rent_division_report.pdf)
+
+---
+
 ## Why this project is useful
 
 This is a portfolio-friendly project because it demonstrates:
